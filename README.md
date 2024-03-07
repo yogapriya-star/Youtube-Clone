@@ -8,7 +8,6 @@ This is a youtube clone website developed using React JS with HTML and CSS.
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Deploy URL](#deploy-url)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -27,12 +26,6 @@ This is a youtube clone website developed using React JS with HTML and CSS.
 - React JS
 - HTML
 - CSS
-
-## Deploy URL
-
-1. URL:
-   ```bash
-   https://youtube-clone-steel-pi.vercel.app/
    
 ## Contributing
 Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
